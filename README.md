@@ -38,3 +38,7 @@ assets/              images and fonts, kept on the screen for offline use
 ```
 
 Guides: https://www.wallcast.io/help/topics/developers
+
+## License
+
+The starter code is MIT licensed (see [LICENSE](LICENSE)), so you can build any app on it, open or closed. Your app is yours: keep that file, replace it with your own licence, or delete it. `LICENSE` and `README.md` are never uploaded to screens.
